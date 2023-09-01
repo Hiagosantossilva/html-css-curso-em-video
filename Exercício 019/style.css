@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: rgb(163, 243, 156);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+h1 { 
+
+    color:#1b3f17;
+
+}
+
+h2 { 
+
+    color:#1b3f17;
+
+}
+
+h1#meupau {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #1b3f17;
+
+
+}
+
+main { 
+
+padding: 30px;
+background-color: white;
+border-radius: 7px;
+margin: 3px;
+
+
+}
+
+.htmlintermédio { 
+background-color: rgba(223, 255, 79, 0.541);
+
+}
+
+.destaque {
+
+
+background-color: coral;
+
+}
+
+/*
+    eae gaykkk
+*/
+    
